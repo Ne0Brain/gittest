@@ -2,7 +2,7 @@
 public class Triangle
 {
 	public static String determineTriangleV1 (int a, int b, int c)
-	private String cat;
+	private String mmmm;
 	{
 		if ((a <= 0) || (b <= 0) || (c <= 0))
 		{
